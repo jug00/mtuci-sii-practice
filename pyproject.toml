@@ -1,0 +1,13 @@
+[project]
+name = "practice"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "dishka>=1.5.3",
+    "granian>=2.2.5",
+    "litestar[standard]>=2.15.2",
+    "openpyxl>=3.1.5",
+    "sqlmodel>=0.0.24",
+    "ultralytics>=8.3.119",
+]
